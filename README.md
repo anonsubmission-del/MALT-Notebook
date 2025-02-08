@@ -17,6 +17,6 @@ Then, open `latent_manipulation.ipynb`
 2. Install requirements: `pip install -r requirements.txt`
 3. Open `latent_manipulation.ipynb`
 
-## Introductory Video:
+## Click for Introductory Video:
 
 [![editing a latent trajectory](/assets/images/interface.gif)](https://youtu.be/I8BQh7oHytc)
